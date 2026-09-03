@@ -6,7 +6,7 @@ RemoteOK every day, this script checks all of them on a schedule and sends me a
 Telegram digest of new postings matching my target keywords.
 
 ## The problem
-I was spending 15-20 minutes every morning opening 7+ career pages one by one,
+I was spending 65-120 minutes every morning opening 7+ career pages one by one,
 scanning for anything new that matched roles I was targeting (Python, SDE, backend,
 fresher). This automates that entire routine.
 
